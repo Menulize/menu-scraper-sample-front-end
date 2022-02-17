@@ -1,7 +1,7 @@
 # Test front end app using Restaurant Menu Finder 
 Lets you see how well Menu finder + OCR engine does 
 
-- Visit http:// to see how it does
+- Visit http://menu-scraper-sample.s3-website-us-west-1.amazonaws.com/ to see how it does
 
 
 # Getting Started with Create React App
